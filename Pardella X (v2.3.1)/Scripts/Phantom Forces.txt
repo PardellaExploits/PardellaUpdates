@@ -1,0 +1,7 @@
+-- Silent Aim
+
+loadstring(game:HttpGet("https://pastebin.com/raw/83t0nmu1%22))()
+
+-- ESP, 5 to Activate
+
+loadstring(game:HttpGet("https://pastebin.com/raw/BUZiqqs0%22))()
